@@ -8688,6 +8688,15 @@ a.card-button:focus .card-info {
   box-shadow: 0 0 0 2px rgba(99, 194, 222, 0.5);
 }
 
+a.card-button:hover .card-danger {
+  background-color: #f63c3a;
+  border-color: #f53231;
+}
+
+a.card-button:focus .card-danger {
+  box-shadow: 0 0 0 2px rgba(248, 108, 107, 0.5);
+}
+
 video {
   width: 100%;
   margin-bottom: 20px;
